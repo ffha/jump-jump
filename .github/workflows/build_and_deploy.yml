@@ -16,7 +16,7 @@ on:
       - published
 
 env:
-  DOCKER_HUB_REPOSITORY: studiomj/jump-jump
+  DOCKER_HUB_REPOSITORY: fthasdd/jump-jump
   TENCENT_CLOUD_REGISTRY: hkccr.ccs.tencentyun.com
   TENCENT_CLOUD_REPOSITORY: hkccr.ccs.tencentyun.com/anmuji/jump-jump
 
