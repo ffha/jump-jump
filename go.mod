@@ -24,9 +24,7 @@ require (
 	github.com/swaggo/swag v1.7.0
 	github.com/thoas/go-funk v0.6.0
 	github.com/ugorji/go v1.2.4 // indirect
-	golang.org/x/crypto v0.0.0-20210314154223-e6e6c4f2bb5b
-	golang.org/x/net v0.0.0-20210315170653-34ac3e1c2000 // indirect
-	golang.org/x/sys v0.0.0-20210316092937-0b90fd5c4c48 // indirect
-	golang.org/x/tools v0.1.0 // indirect
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/net v0.7.0 // indirect
 	google.golang.org/protobuf v1.25.0 // indirect
 )
